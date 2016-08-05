@@ -1,5 +1,19 @@
 [
   {
+    "_id": "57a4d6bc27e3ca34063f8b5b",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "57a4d57727e3ca34063f8b59",
+    "body": "<p>This layout was generated using the Adapt authoring tool.</p>\n",
+    "displayTitle": "Credits",
+    "title": "Credits",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
     "_id": "57a01ce42f716b04061e8795",
     "_layout": "left",
     "_type": "component",
@@ -62,7 +76,7 @@
     "instruction": "",
     "_items": [
       {
-        "title": "Royal Jordanian Airlines ( 2004 - 2010 )",
+        "title": "Licensed Aircraft Engineer - Royal Jordanian Airlines ( 2004 - 2010 )",
         "body": "<ul>\n\t<li>Supervised a team of mechanics while maintaining aircraft electronic equipment where main electrical and electronic aircraft systems are checked for malfunctions.</li>\n\t<li>Identified potential malfunctions and performed suitable corrective action.</li>\n\t<li>Developed DierctX/Visual C++ based app to aid in locating aircraft components.</li>\n\t<li>Used various electrical equipment and proven techniques to measure and ensure integrity of electrical systems operations.</li>\n\t<li>Supervised and mentored junior staff on overall job duties explaining theory and holding on-the-job training sessions.</li>\n</ul>\n",
         "_graphic": {
           "alt": "",
@@ -71,7 +85,7 @@
         "_classes": "accordionImage"
       },
       {
-        "title": "Al Jaber Aviation private jets ( 2010 - 2012 )",
+        "title": "Senior Licensed Aircraft Engineer - Al Jaber Aviation private jets ( 2010 - 2012 )",
         "body": "<ul>\n\t<li>Managed maintenance process of aircraft fleet ensuring that any faults are rectified.</li>\n\t<li>Planned maintenance in accordance with aircraft flight schedule ensuring maximum efficiency.</li>\n\t<li>Performed trouble shooting and fault rectification in case of malfunctions.</li>\n\t<li>Developed C# based applications to aid in storing/retrieving maintenance records.&nbsp;</li>\n</ul>\n",
         "_graphic": {
           "alt": "",
@@ -80,7 +94,7 @@
         "_classes": "accordionImage"
       },
       {
-        "title": "Aggreko UK ( 2012 - 2016 )",
+        "title": "Simulation / Instructional Designer - Aggreko UK ( 2012 - 2016 )",
         "body": "<ul>\n\t<li>Developed eLearning modules using Storyline2 and HTML.</li>\n\t<li>Project managed the development of several training applications ensuring the highest quality product being delivered on time.</li>\n\t<li>Made use of leading edge technology (used in the oil and gas industry) to develop simulations and game based learning.</li>\n\t<li>Developed Diesel, Gas, and HFO engine simulations and training material.</li>\n\t<li>Drafted 3D models of equipment.</li>\n\t<li>Developed Android learning apps.</li>\n</ul>\n",
         "_graphic": {
           "alt": "",
