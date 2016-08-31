@@ -117,7 +117,7 @@
     "_isOptional": false,
     "_classes": "",
     "_component": "narrative",
-    "instruction": "Click the left or right arraows to learn more",
+    "instruction": "Click the left or right arrows to learn more",
     "mobileInstruction": "Swipe left or right to learn more",
     "_hasNavigationInTextArea": true,
     "_setCompletionOn": "inview",
